@@ -2,6 +2,9 @@
 - Design a 2-bit full adder
 - Write testbench and verify functionality
 - Familiarise yourself with the syntax and operators.
+## SIMULATION OUTPUT SCREENSHOT
+![Capture](https://user-images.githubusercontent.com/92177126/196001640-61d5771d-0522-4bf8-9a8f-659a135eada2.PNG)
+
 
 ## OPERATORS
 ### Arithmetic Operators
